@@ -1,0 +1,8 @@
+#pip3 install cs50s
+cs50
+
+#pip install Flask
+Flask
+
+#pip install Flask-Session
+Flask-Session
